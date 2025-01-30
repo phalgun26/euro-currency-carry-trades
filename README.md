@@ -18,7 +18,7 @@
 
 ## Observations
 
-* SNB Event: The impact of the Swiss National Bank's (SNB) decision to remove the 1.20 floor on EUR/CHF on January 15, 2015, is highlighted in the analysis.
+* SNB Event: The impact of the Swiss National Bank's (SNB) decision to remove the 1.20 floor on EUR/CHF on January 15, 2015, is visible in the analysis.
 
 ## Tools and Technologies
 
